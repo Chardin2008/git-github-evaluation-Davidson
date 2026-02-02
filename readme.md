@@ -1,2 +1,5 @@
-# Évaluation Git & GitHub
+# Évaluation Git & GitHub Davidson Poutcheu 
 Projet réalisé dans le cadre d'une évaluation Git & GitHub pour débutant.
+Git est un système de contrôle de version distribué créé par Linus Torvalds en 2005. Il permet de suivre l’évolution d’un projet, de sauvegarder des instantanés du code, de revenir à des versions antérieures et de travailler sur plusieurs branches en parallèle. Chaque développeur possède une copie complète de l’historique, ce qui rend le travail hors ligne possible et sécurisé.
+
+GitHub, lancé en 2008 et aujourd’hui propriété de Microsoft, est une plateforme en ligne qui héberge des dépôts Git et facilite la collaboration en temps réel. Elle ajoute des outils de gestion de projet, de suivi des tâches (issues), de revue de code (pull requests) et de communication entre contributeurs.
